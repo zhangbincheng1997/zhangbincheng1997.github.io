@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{competition.html}
+
+== Competition
+~~~
+{}{img_left}{images/competition/ciscn.jpg}{ciscn}{200}{150}
+- [http://www.ciscn.cn/ 2017年第十届全国大学生信息安全竞赛] —— 一等奖
+- 《基于区块链技术的安全众包系统》
+~~~
+
+~~~
+{}{img_left}{images/competition/cnsoftbei.jpg}{cnsoftbei}{200}{150}
+- [http://www.cnsoftbei.com/ 2018年第七届“中国软件杯”大学生软件设计大赛] —— 二等奖
+- 《可信数字资产存证应用》
+~~~
+
+~~~
+{}{img_left}{images/competition/nubcc.jpg}{nubcc}{150}{200}
+- [https://www.nubcc.cn/ 2019年全国高校区块链大赛] —— 一等奖
+- 《基于区块链技术的安全数字取证管理平台》
+~~~
+
+~~~
+{}{img_left}{images/competition/bdrace.jpg}{bdrace}{200}{150}
+- [http://www.tipdm.org/bdrace/ 2018年第六届“泰迪杯”数据挖掘挑战赛] —— 一等并获创新信诺奖
+- 《智能阅读模型的构建》
+-- 对于用户提出的问题，能够在给定的文本中找出与之相关的章节、段落甚至是句子。
+-- 传统数学模型，使用 Gensim 开发 TF-IDF、LSI 等，实现问答的关键词匹配。
+-- 深度学习模型，使用 Keras 开发 CNN、LSTM 等，实现问答的精准匹配。
+~~~
+
+~~~
+{}{img_left}{images/competition/aidc.jpg}{aidc}{200}{150}
+- [http://www.saikr.com/aidc/ 2018年第八届“华为杯”中国大学生智能设计竞赛] —— 二等奖
+- 《基于深度学习的个性化聊天机器人》
+-- 对于用户输入的任何中文文本，能够给出语句通顺、语法正确、符合上下文语义的回复。
+-- 知识库匹配，使用 aiml，实现基本回答、异常处理、情绪回答等的匹配。
+-- 互联网搜索，使用 requests+bs4，实现新闻、笑话、时间、天气等的爬取。
+~~~

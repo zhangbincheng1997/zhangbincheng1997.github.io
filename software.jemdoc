@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{software.html}
+
+== Software
+
+~~~
+{}{img_left}{images/software/crowdchain.jpg}{crowdchain}{150}{200}
+- [http://www.littleredhat1997.com/upload/安全众包/ 安全众包系统]
+~~~
+
+~~~
+{}{img_left}{images/software/copyright.jpg}{copyright}{150}{200}
+- [http://www.littleredhat1997.com/upload/数字版权/ 数字版权系统]
+~~~
+
+~~~
+{}{img_left}{images/software/forensicschain.jpg}{forensicschain}{150}{200}
+- [http://www.littleredhat1997.com/upload/数字取证/ 数字取证系统]
+~~~
+
+~~~
+{}{img_left}{images/software/reading.jpg}{reading}{150}{200}
+- [https://github.com/littleredhat1997/car_end2end 智能阅读模型]
+~~~
+
+~~~
+{}{img_left}{images/software/speaking.jpg}{speaking}{150}{200}
+- [https://github.com/littleredhat1997/car_end2end 智能对话模型]
+~~~
+
+~~~
+{}{img_left}{images/software/cyxy.jpg}{cyxy}{150}{200}
+- [https://cyxy.jnu.edu.cn/ 暨南大学创业学院官网]
+~~~
+
+~~~
+{}{img_left}{images/software/jichuangclub.jpg}{jichuangclub}{150}{200}
+- [http://jichuangclub.com/ 暨南大学创业俱乐部官网]
+~~~
+
+~~~
+{}{img_left}{images/software/car.gif}{cyxy}{200}{150}
+- [https://github.com/littleredhat1997/car_end2end 模拟器端对端自动驾驶]
+~~~
+
+~~~
+{}{img_left}{images/software/picar.gif}{cyxy}{200}{150}
+- [https://github.com/littleredhat1997/picar_end2end 树莓派端对端自动驾驶]
+~~~
+
+~~~
+{}{img_left}{images/software/parking.jpg}{parking}{200}{150}
+- [https://gameinstitute.qq.com/college/competition 2017腾讯72小时游戏制作夏令营]
+-- [https://github.com/littleredhat1997/Parking Parking]
+-- 游戏除了是休闲娱乐产品，你可曾想过，游戏还能拥有改变世界的力量——在游戏中探索未知的太空，用游戏让非物质文化遗产焕然新生，在游戏里解决找不到男/女朋友、堵车等社会问题……你觉得在游戏世界中，我们可以做些什么呢？
+~~~
+
+~~~
+{}{img_left}{images/software/rootless.jpg}{rootless}{200}{150}
+- [http://ciga.me/ciga/ 2017 CiGA GameJam 48小时极限游戏创作]
+-- [https://github.com/littleredhat1997/Rootless Rootless]
+-- 和素昧平生的人，从陌生到熟悉，一起实现一个共同的目标，让在这两天一夜里遇到的那些有趣的人和有趣的事，来丰满我们的人生和回忆，我一直觉得这才是game jam活动的真谛。
+~~~

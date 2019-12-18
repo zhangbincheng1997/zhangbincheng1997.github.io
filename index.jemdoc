@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: title{Zhang Bincheng(张彬城)}
+= Zhang Bincheng
+
+~~~
+{}{img_left}{images/me.jpg}{Zhang Bincheng}{150}{150}
+- 张彬城 · 1997-11-27
+- E-mail: 1656704949@qq.com
+- GitHub: [https://github.com/littleredhat1997 https:\/\/github.com/littleredhat1997]
+- 每天起床第一句，先给自己打个气！
+~~~
+
+== Education
+- [https://www.xmu.edu.cn/ 厦门大学] - 硕士 - 计算机技术 · 研一在读
+- 导师：[https://information.xmu.edu.cn/info/1018/3168.htm 张德富（教授）] [https://information.xmu.edu.cn/info/1019/3192.htm 黄洪艺（教授）]
+
+- [https://www.jnu.edu.cn/ 暨南大学] - 本科 - 软件工程
+- 导师：[https://xxxy2016.jnu.edu.cn/Item/1534.aspx 翁健（教授）]
+
+== Interest
+- 熟悉Java，掌握SpringBoot、SpringCloud等框架，掌握Redis、RabbitMQ等组件
+- 熟悉Python、Linux、GitHub
+- 掌握数据结构与算法
+- 其他技能：区块链、深度学习
+
+== Practice
+- \[2018.7-2018.9\] 华为技术有限公司 - 大数据开发工程师
