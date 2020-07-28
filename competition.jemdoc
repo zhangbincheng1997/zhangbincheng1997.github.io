@@ -3,11 +3,11 @@
 == Competition
 ~~~
 {}{img_left}{http://cdn.littleredhat1997.com/competition/nubcc.jpg}{nubcc}{150}{200}
-- [https://www.nubcc.cn/ 2019年全国高校区块链大赛] —— 一等奖
+- [https://www.nubcc.cn/ 2019 年全国高校区块链大赛] —— 一等奖
 - [http://www.littleredhat1997.com/upload/数字取证/ 《基于区块链技术的安全数字取证管理平台》]
 -- 主要功能：存证登记、管理、查询，案件创建、跟踪、取证等；
 -- 以太坊Ethereum搭建，智能合约Solidity编写；
--- Spring Boot后台开发 \+ Web3j以太坊 \+ IPFS分布式存储。
+-- Spring Boot后台开发 \+ Web3j 以太坊 \+ IPFS分布式存储。
 ~~~
 
 ~~~
@@ -41,7 +41,7 @@
 - [https://github.com/littleredhat1997/chatbot-aiml-webqa 《基于深度学习的个性化聊天机器人》]
 -- 对于用户输入的任何中文文本，能够给出语句通顺、语法正确、符合上下文语义的回复；
 -- 知识库匹配：使用AIML，实现基本回答、异常处理、情绪回答等的匹配；
--- 互联网搜索：使用Requests+BS4，实现新闻、笑话、时间、天气等的爬取。
+-- 互联网搜索：使用BeautifulSoup4，实现新闻、笑话、时间、天气等的爬取。
 ~~~
 
 ~~~
