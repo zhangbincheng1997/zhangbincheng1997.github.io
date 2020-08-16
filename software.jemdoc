@@ -5,10 +5,10 @@
 {}{img_left}{http://cdn.littleredhat1997.com/software/pzc.png}{pzc}{200}{150}
 - [http://www.pzcnet.com/ “我知盘中餐”电子商务项目（厦门市“双百计划”项目）]
 -- 扶贫电商，包括商品、购物车、订单、支付、登录、注册等；
--- 重构项目，Spring Boot \+ Spring Cloud \+ MySQL \+ Redis \+ RabbitMQ；
+-- 重构项目，Spring Boot \+ Spring Cloud \+ MySQL \+ Redis \+ RocketMQ；
 -- 登录系统：Spring Security认证授权 \+ JWT单点登录 \+ Redis缓存用户；
--- 订单系统：Snowflake唯一ID \+ Chain责任链下单 \+ RabbitMQ超时取消；
--- [https://github.com/littleredhat1997/mall 备用方案]：Lua原子脚本 \+ Redis预减库存 \+ RabbitMQ异步下单。
+-- 订单系统：MySQL Chain责任链模式 \+ Snowflake雪花算法 \+ RocketMQ延迟消费；
+-- [https://github.com/littleredhat1997/mall 备用方案]：Lua原子脚本 \+ Redis预减库存 \+ RocketMQ异步下单。
 ~~~
 
 ~~~
@@ -34,13 +34,13 @@
 ~~~
 
 ~~~
-{}{img_left}{http://cdn.littleredhat1997.com/software/parking.jpg}{parking}{200}{150}
-- [https://github.com/littleredhat1997/Parking Parking] - [https://gameinstitute.qq.com/ 腾讯 72 小时游戏制作夏令营(2017)]
--- 游戏除了是休闲娱乐产品，你可曾想过，游戏还能拥有改变世界的力量——在游戏中探索未知的太空，用游戏让非物质文化遗产焕然新生，在游戏里解决找不到男/女朋友、堵车等社会问题……你觉得在游戏世界中，我们可以做些什么呢？
+{}{img_left}{http://cdn.littleredhat1997.com/software/rootless.jpg}{rootless}{200}{150}
+- [http://cdn.littleredhat1997.com/software/ciga48.jpg CiGA Game Jam 48 小时极限游戏创作(2017)] - [http://cdn.littleredhat1997.com/software/rootless.jpg <Rootless>] - [https://github.com/littleredhat1997/Rootless GitHub]
+-- 主要技术：2D原画、单例、对象池、重力感应、协程等。
 ~~~
 
 ~~~
-{}{img_left}{http://cdn.littleredhat1997.com/software/rootless.jpg}{rootless}{200}{150}
-- [https://github.com/littleredhat1997/Rootless Rootless] - [https://www.ciga.me/ CiGA GameJam 48 小时极限游戏创作(2017)]
--- 和素昧平生的人，从陌生到熟悉，一起实现一个共同的目标，让在这两天一夜里遇到的那些有趣的人和有趣的事，来丰满我们的人生和回忆，我一直觉得这才是game jam活动的真谛。
+{}{img_left}{http://cdn.littleredhat1997.com/software/parking.jpg}{parking}{200}{150}
+- [http://cdn.littleredhat1997.com/software/tencent72.jpg 腾讯 72 小时游戏制作夏令营(2017)] - [http://cdn.littleredhat1997.com/software/parking.jpg <Parking>] - [https://github.com/littleredhat1997/Parking GitHub]
+-- 主要技术：3D体素、单例、对象池、射线检测、协程等。
 ~~~
