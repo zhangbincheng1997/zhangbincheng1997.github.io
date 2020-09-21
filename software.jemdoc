@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{software.html}
+# jemdoc: menu{MENU}{software.html}, nofooter
 
 == Software
 ~~~
@@ -31,16 +31,4 @@
 - [https://github.com/littleredhat1997/picar_end2end 树莓派端对端自动驾驶]
 -- 模型训练：Python、Keras实现Nvidia端到端自动驾驶模型，并可视化特征；
 -- 模型部署：根据摄像头每一帧图像，自动控制小车的舵机转向、电机驱动。
-~~~
-
-~~~
-{}{img_left}{http://cdn.littleredhat1997.com/software/rootless.jpg}{rootless}{200}{150}
-- [http://cdn.littleredhat1997.com/software/ciga48.jpg CiGA Game Jam 48 小时极限游戏创作(2017)] - [http://cdn.littleredhat1997.com/software/rootless.jpg <Rootless>] - [https://github.com/littleredhat1997/Rootless GitHub]
--- 主要技术：2D原画、单例、对象池、重力感应、协程等。
-~~~
-
-~~~
-{}{img_left}{http://cdn.littleredhat1997.com/software/parking.jpg}{parking}{200}{150}
-- [http://cdn.littleredhat1997.com/software/tencent72.jpg 腾讯 72 小时游戏制作夏令营(2017)] - [http://cdn.littleredhat1997.com/software/parking.jpg <Parking>] - [https://github.com/littleredhat1997/Parking GitHub]
--- 主要技术：3D体素、单例、对象池、射线检测、协程等。
 ~~~

@@ -1,13 +1,18 @@
-# jemdoc: menu{MENU}{competition.html}
+# jemdoc: menu{MENU}{competition.html}, nofooter
 
 == Competition
 ~~~
-{}{img_left}{http://cdn.littleredhat1997.com/competition/nubcc.jpg}{nubcc}{150}{200}
-- [https://www.nubcc.cn/ 2019 年全国高校区块链大赛] —— 一等奖
-- [http://www.littleredhat1997.com/upload/数字取证/ 《基于区块链技术的安全数字取证管理平台》]
--- 主要功能：存证登记、管理、查询，案件创建、跟踪、取证等；
+- [http://tiaozhanbei.youth.cn/ 2020年第十二届“挑战杯”中国大学生创业计划竞赛] —— 国赛ing
+- 《云链账本》
 -- 以太坊Ethereum搭建，智能合约Solidity编写；
 -- Spring Boot后台开发 \+ Web3j 以太坊 \+ IPFS分布式存储。
+~~~
+
+~~~
+{}{img_left}{http://cdn.littleredhat1997.com/competition/nubcc.jpg}{nubcc}{150}{200}
+- [https://www.nubcc.cn/ 2019年全国高校区块链大赛] —— 一等奖
+- [http://www.littleredhat1997.com/upload/数字取证/ 《基于区块链技术的安全数字取证管理平台》]
+-- 主要功能：存证登记、管理、查询，案件创建、跟踪、取证等；
 ~~~
 
 ~~~
@@ -15,7 +20,6 @@
 - [http://www.cnsoftbei.com/ 2018年第七届“中国软件杯”大学生软件设计大赛] —— 二等奖
 - [http://www.littleredhat1997.com/upload/数字存证/ 《可信数字资产存证应用》]
 -- 主要功能：版权登记、查询、交易、注销、鉴权、凭证等；
--- 负责内容基本同上。
 ~~~
 
 ~~~
@@ -23,7 +27,6 @@
 - [http://www.ciscn.cn/ 2017年第十届全国大学生信息安全竞赛] —— 一等奖
 - [http://www.littleredhat1997.com/upload/安全众包/ 《基于区块链技术的安全众包系统》]
 -- 主要功能：登录注册、发布任务、接收任务、提交任务等；
--- 负责内容基本同上。
 ~~~
 
 ~~~

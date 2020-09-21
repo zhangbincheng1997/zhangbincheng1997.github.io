@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="131948e9-fd9e-4a81-bd07-e9fb2acb2dae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/littleredhat1997.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/littleredhat1997.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MENU" beforeDir="false" afterPath="$PROJECT_DIR$/MENU" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competition.html" beforeDir="false" afterPath="$PROJECT_DIR$/competition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competition.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/competition.jemdoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/index.jemdoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scholarship.html" beforeDir="false" afterPath="$PROJECT_DIR$/scholarship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scholarship.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/scholarship.jemdoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/software.html" beforeDir="false" afterPath="$PROJECT_DIR$/software.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/software.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/software.jemdoc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="9e4ffb86-115f-4a46-b288-d3e9110a4348" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\zhang\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hmX5RPwSb0Ltq2mCMSqAknrBEP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31954023" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\littleredhat1997.github.io\example" />
+      <recent name="D:\code\littleredhat1997.github.io" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="littleredhat1997.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\app\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="index competition scholarship software" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jemdoc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littleredhat1997.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jemdoc" />
+      <option name="PARAMETERS" value="index competition software scholarship" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jemdoc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="131948e9-fd9e-4a81-bd07-e9fb2acb2dae" name="Default Changelist" comment="" />
+      <created>1600617057644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600617057644</updated>
+      <workItem from="1600617058753" duration="8145000" />
+      <workItem from="1600674938389" duration="2311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="201" y="35" key="#Project_Structure" timestamp="1600624560904">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="201" y="35" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1600624560904" />
+    <state x="176" y="80" width="1089" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600677234826">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="176" y="80" width="1089" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1600677234826" />
+    <state x="454" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600675635467">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="454" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1600675635467" />
+    <state x="301" y="115" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1600617321386">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="301" y="115" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1440.920@0.0.1440.920" timestamp="1600617321386" />
+    <state x="501" y="227" key="FileChooserDialogImpl" timestamp="1600617182087">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="227" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1600617182087" />
+    <state width="1397" height="146" key="GridCell.Tab.0.bottom" timestamp="1600677257328">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="146" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1600677257328" />
+    <state width="1397" height="146" key="GridCell.Tab.0.center" timestamp="1600677257326">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="146" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1600677257326" />
+    <state width="1397" height="146" key="GridCell.Tab.0.left" timestamp="1600677257326">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="146" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1600677257326" />
+    <state width="1397" height="146" key="GridCell.Tab.0.right" timestamp="1600677257328">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="146" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1600677257328" />
+    <state x="222" y="69" key="SettingsEditor" timestamp="1600674984731">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="69" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1600674984731" />
+    <state x="108" y="46" key="new project wizard" timestamp="1600618080831">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="46" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1600618080831" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/littleredhat1997_github_io$jemdoc_bak.coverage" NAME="jemdoc_bak Coverage Results" MODIFIED="1600670431950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/littleredhat1997_github_io$jemdoc.coverage" NAME="jemdoc Coverage Results" MODIFIED="1600677242871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

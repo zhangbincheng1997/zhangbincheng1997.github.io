@@ -1,12 +1,12 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, nofooter
 # jemdoc: title{Zhang Bincheng(张彬城)}
-= Zhang Bincheng
+= Zhang Bincheng(张彬城)
 
 ~~~
 {}{img_left}{http://cdn.littleredhat1997.com/me.jpg}{Zhang Bincheng}{150}{150}
-- 张彬城 · 1997-11-27
 - Phone: 15521106350
 - E-mail: 1656704949@qq.com
+- Wechat: zhangbincheng1997
 - GitHub: [https:\/\/github.com/littleredhat1997 github.com/littleredhat1997]
 - Home: [https:\/\/littleredhat1997.github.io littleredhat1997.github.io]
 - 每天起床第一句，先给自己打个气！
@@ -20,4 +20,5 @@
 - 导师：[https://xxxy2016.jnu.edu.cn/Item/1534.aspx 翁健（教授）]
 
 == Experience
-- \[2018.7-2018.9\] 华为技术有限公司 - 大数据开发工程师
+- \[2018.7-2018.9\] 华为 - 大数据开发 - 实习
+- \[2020.9-至今\] 网易 - 游戏服务端开发 - 实习
