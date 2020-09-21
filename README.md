@@ -11,4 +11,4 @@ Python2: https://github.com/jem/jemdoc
 Python3: https://github.com/wsshin/jemdoc_mathjax
 
 update：
-- line141: content="text/html;charset=utf-8" -> content="text/html;charset=GBK"
+- line1631: outfile = io.open(thisout, 'w', encoding='utf-8')

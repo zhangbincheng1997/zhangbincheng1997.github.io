@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131948e9-fd9e-4a81-bd07-e9fb2acb2dae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/littleredhat1997.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/littleredhat1997.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MENU" beforeDir="false" afterPath="$PROJECT_DIR$/MENU" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/competition.html" beforeDir="false" afterPath="$PROJECT_DIR$/competition.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/competition.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/competition.jemdoc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/index.jemdoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/jemdoc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scholarship.html" beforeDir="false" afterPath="$PROJECT_DIR$/scholarship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scholarship.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/scholarship.jemdoc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/software.html" beforeDir="false" afterPath="$PROJECT_DIR$/software.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/software.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/software.jemdoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
@@ -83,19 +76,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="littleredhat1997.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +136,7 @@
       <updated>1600617057644</updated>
       <workItem from="1600617058753" duration="8145000" />
       <workItem from="1600674938389" duration="2311000" />
+      <workItem from="1600677845327" duration="441000" />
     </task>
     <servers />
   </component>
@@ -167,10 +148,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="201" y="35" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1600624560904" />
-    <state x="176" y="80" width="1089" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600677234826">
+    <state x="176" y="80" width="1089" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600678265925">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="176" y="80" width="1089" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1600677234826" />
+    <state x="176" y="80" width="1089" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1600678265925" />
     <state x="454" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600675635467">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -183,22 +164,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="501" y="227" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1600617182087" />
-    <state width="1397" height="146" key="GridCell.Tab.0.bottom" timestamp="1600677257328">
+    <state width="1397" height="146" key="GridCell.Tab.0.bottom" timestamp="1600678286936">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="146" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1600677257328" />
-    <state width="1397" height="146" key="GridCell.Tab.0.center" timestamp="1600677257326">
+    <state width="1397" height="146" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1600678286936" />
+    <state width="1397" height="146" key="GridCell.Tab.0.center" timestamp="1600678286935">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="146" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1600677257326" />
-    <state width="1397" height="146" key="GridCell.Tab.0.left" timestamp="1600677257326">
+    <state width="1397" height="146" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1600678286935" />
+    <state width="1397" height="146" key="GridCell.Tab.0.left" timestamp="1600678286935">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="146" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1600677257326" />
-    <state width="1397" height="146" key="GridCell.Tab.0.right" timestamp="1600677257328">
+    <state width="1397" height="146" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1600678286935" />
+    <state width="1397" height="146" key="GridCell.Tab.0.right" timestamp="1600678286936">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="146" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1600677257328" />
+    <state width="1397" height="146" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1600678286936" />
     <state x="222" y="69" key="SettingsEditor" timestamp="1600674984731">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -214,6 +195,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/littleredhat1997_github_io$jemdoc_bak.coverage" NAME="jemdoc_bak Coverage Results" MODIFIED="1600670431950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/littleredhat1997_github_io$jemdoc.coverage" NAME="jemdoc Coverage Results" MODIFIED="1600677242871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/littleredhat1997_github_io$jemdoc.coverage" NAME="jemdoc Coverage Results" MODIFIED="1600678220248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
