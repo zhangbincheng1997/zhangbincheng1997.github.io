@@ -1,7 +1,7 @@
 # Resume
 
 ```
-$ python jemdoc index competition software scholarship
+$ python jemdoc index competition scholarship
 ```
 
 Home page [littleredhat1997.github.io](https://littleredhat1997.github.io/)
