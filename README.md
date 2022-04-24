@@ -1,7 +1,7 @@
 # Resume
 
 ```
-$ python jemdoc index competition scholarship
+$ python jemdoc index
 ```
 
 Home page [zhangbincheng1997.github.io](https://zhangbincheng1997.github.io/)
